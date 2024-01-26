@@ -1,0 +1,125 @@
+﻿  stdafx.cpp
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\DuiLib\include\Core\UIManager.h(45,2): warning C4091: 'typedef ': ignored on left of 'DuiLib::EVENTTYPE_UI' when no variable is declared
+  AnnotateBarWindow.cpp
+  AnnotateClearWindow.cpp
+  AnnotateDrawWindow.cpp
+  AnnotateFormatWindow.cpp
+  AnnotateSpolightWindow.cpp
+  AnnotateStampWindow.cpp
+  arrow_window.cpp
+  CameraControlWindow.cpp
+  chat_controller_ui.cpp
+  chat_controller_workflow.cpp
+  close_caption_ui.cpp
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\sdk_demo_v2\close_caption_ui.cpp(153,48): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  close_caption_workflow.cpp
+  CustomizedUIRecordMgr.cpp
+  custom_ui_mgr.cpp
+  custom_ui_mgr_flow.cpp
+  custom_ui_share_flow.cpp
+  custom_ui_share_mgr.cpp
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\sdk_demo_v2\custom_ui_share_mgr.cpp(250,36): warning C4477: 'swscanf_s' : format string '%x' requires an argument of type 'unsigned int *', but variadic argument 1 has type 'HWND *'
+  custom_ui_video_flow.cpp
+  custom_ui_video_mgr.cpp
+  display_cc_ui.cpp
+  Generating Code...
+  Compiling...
+  init_auth_sdk_workflow.cpp
+  invitation_ui.cpp
+  invitation_workflow.cpp
+  Join_meeting_for_login_user_ui.cpp
+  Join_meeting_for_login_user_workflow.cpp
+  join_webinar_wnd_ui.cpp
+  LoggedIn_sdk_controller_ui.cpp
+  LoggedIn_sdk_controller_workflow.cpp
+  LOGIN_join_meeting_only_workflow.cpp
+  LOGIN_login_with_sso_workflow.cpp
+  LOGIN_restapi_without_login_workflow.cpp
+  LOGIN_sdk_login_UI.cpp
+  mess_info.cpp
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\sdk_demo_v2\mess_info.cpp(64,45): warning C4244: '=': conversion from 'UINT64' to 'int', possible loss of data
+  more_features_ui.cpp
+  more_features_workflow.cpp
+  more_menu_ui.cpp
+  ParticipantPopMenu.cpp
+  participant_ui.cpp
+  sdk_demo_app.cpp
+  sdk_demo_v2.cpp
+  Generating Code...
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\sdk_demo_v2\join_webinar_wnd_ui.cpp(200): warning C4715: 'CJoinWebinarWndUI::OnCreate': not all control paths return a value
+  Compiling...
+  sdk_init_auth_ui.cpp
+  sdk_util.cpp
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\sdk_demo_v2\sdk_util.cpp(333,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SETTINGS_audio_workflow.cpp
+  SETTINGS_feature_custom_workflow.cpp
+  SETTINGS_general_workflow.cpp
+  SETTINGS_recording_workflow.cpp
+  SETTINGS_share_workflow.cpp
+  settings_ui.cpp
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\sdk_demo_v2\settings_ui.cpp(28,14): warning C4244: '/=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\sdk_demo_v2\settings_ui.cpp(29,13): warning C4244: '/=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\sdk_demo_v2\settings_ui.cpp(30,15): warning C4244: '/=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\sdk_demo_v2\settings_ui.cpp(31,16): warning C4244: '/=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\sdk_demo_v2\settings_ui.cpp(1740,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\sdk_demo_v2\settings_ui.cpp(3933,1): warning C4010: single-line comment contains line-continuation character
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\utility(247,16): warning C4267: 'initializing': conversion from 'size_t' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\sdk_demo_v2\settings_ui.cpp(1767,51): message : see reference to function template instantiation 'std::pair<int,bkItemType>::pair<unsigned __int64,bkItemType&,0>(_Other1 &&,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=bkItemType &
+          ]
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\sdk_demo_v2\settings_ui.cpp(1767,24): message : see the first reference to 'std::pair<int,bkItemType>::pair' in 'CSDKVBGImageList::AddItem'
+  SETTINGS_ui_custom_workflow.cpp
+  SETTINGS_video_workflow.cpp
+  SETTINGS_virtualBG_workflow.cpp
+  ShareToolbarWindow.cpp
+  toolbar_bottom_ui.cpp
+  toolbar_bottom_workflow.cpp
+  toolbar_manager.cpp
+  user_manager.cpp
+C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\demo\sdk_demo_v2\user_manager.cpp(17,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  util_window.cpp
+  ViewOptionsWindow.cpp
+  Generating Code...
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+DuiLib64.lib(Utils.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(Utils.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIManager.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIManager.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIBase.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIBase.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIMarkup.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIMarkup.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIDlgBuilder.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIDlgBuilder.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIList.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIList.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIRichEdit.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIRichEdit.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIControl.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIControl.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UILabel.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UILabel.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIGifAnim.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIGifAnim.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIContainer.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIContainer.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIDelegate.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIDelegate.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIRender.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIRender.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UICheckBox.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UICheckBox.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIProgress.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIProgress.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIButton.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIButton.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIHorizontalLayout.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIHorizontalLayout.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UICombo.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UICombo.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(StdAfx.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(StdAfx.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(XUnzip.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(XUnzip.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIVerticalLayout.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIVerticalLayout.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UITileLayout.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UITileLayout.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UITabLayout.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UITabLayout.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIChildLayout.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIChildLayout.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIScrollBar.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIScrollBar.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UITreeView.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UITreeView.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIText.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIText.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIEdit.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIEdit.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIOption.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIOption.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UISlider.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UISlider.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIDateTime.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIDateTime.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIActiveX.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIActiveX.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(UIWebBrowser.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(UIWebBrowser.obj)' or at ''; linking object as if no debug info
+DuiLib64.lib(stb_image.obj) : warning LNK4099: PDB '' was not found with 'DuiLib64.lib(stb_image.obj)' or at ''; linking object as if no debug info
+  sdk_demo_v2.vcxproj -> C:\Users\Bruger\Desktop\zoom-sdk-windows-5.17.5.31085\zoom-sdk-windows-5.17.5.31085\x64\bin\sdk_demo_v2.exe
